@@ -1,15 +1,3 @@
-ep-5
-
-two types of exports/imports 
--dafault 
-export default Component
-import component from "path"
-
--named export /import 
-export const component
-import {component} from path
-for multiple exports
-
 # react hooks is a normal js utility function
 
  
@@ -21,7 +9,7 @@ for multiple exports
 - dispatch(action)
 - selector
 
-# setting u ptesting 
+# setting testing 
 - install react testinhh library
 - install jest 
 - installed babel depandenices
