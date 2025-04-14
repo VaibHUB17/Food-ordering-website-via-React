@@ -1,0 +1,98 @@
+{
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+        "id": "877417",
+        "name": "Best India Ice Cream",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/319b63f7-7376-4e79-9934-d3159581df00_877417.jpg",
+        "locality": "Sunshine Colony",
+        "areaName": "BTM",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+            "Ice Cream Cakes",
+            "Cakes & Pastries",
+            "Bakery"
+        ],
+        "avgRating": 4.3,
+        "veg": true,
+        "parentId": "514082",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "416",
+        "promoted": true,
+        "adTrackingId": "cid=27119195~p=5~adgrpid=27119195#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=877417~plpr=COLLECTION~eid=b4167922-66f8-4c9b-b489-f390a29ab7e6~srvts=1744320890554~collid=147970",
+        "sla": {
+            "deliveryTime": 24,
+            "lastMileTravel": 4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20-25 mins",
+            "lastMileTravelString": "4.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-04-18 00:00:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {
+            "header": "20% OFF",
+            "shortDescriptionList": [
+                {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                }
+            ],
+            "descriptionList": [
+                {
+                    "meta": "20% off",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                },
+                {
+                    "meta": "Free butterscotc on orders above ₹1098",
+                    "discountType": "Freebie",
+                    "operationType": "RESTAURANT"
+                }
+            ]
+        },
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-b2042e59-5123-46d7-905f-2f8ef86eaef7"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/bangalore/best-india-ice-cream-sunshine-colony-btm-rest877417",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_byName"
+}
